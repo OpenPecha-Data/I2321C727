@@ -1,7 +1,7 @@
 id: P004432
 initial_creation_type: ocr
 created_at: 28/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 11:21:08.582346
 source_metadata:
   id: bdr:W3CN4816
   title: ཊཱིཀ་ཆེན་དགོངས་པ་རབ་གསལ།
@@ -18,3 +18,5 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 0
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
